@@ -1,6 +1,6 @@
 ## Ualers
- - Python developer specializing in pyqt5
- - Creator of urobotsofware, an AI-governed software organization/company
+ - 🐍 Python developer specializing in pyqt5
+ - ✨ Creator of SoftwareAI Company, an AI-governed software organization/company
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ualers" />
 </a>
